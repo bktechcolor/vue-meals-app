@@ -3,6 +3,8 @@ This repository is created alongside the following [YouTube Tutorial](https://yo
 
 ## Demo
 [https://tc-search-meals.netlify.app](https://tc-search-meals.netlify.app/)
+## Technologies
+Global Store variable Vuex
 
 ## Installation
 1. Clone the repository
